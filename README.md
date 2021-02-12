@@ -22,5 +22,5 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 
-## Reach out to me on:
+# Reach out to me:
 **https://www.linkedin.com/in/soumee-mukherjee-6683721a1/**
