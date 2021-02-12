@@ -5,8 +5,6 @@
 * **Love programming too**
 * **Participated a couple of time's in Harvard's Puzzle Days**
 
-### Reach out to me on:
-**https://www.linkedin.com/in/soumee-mukherjee-6683721a1/**
 
 # Skills involve:
 ### Machine Learning:
@@ -22,3 +20,7 @@
 
 ### Databases:
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+
+## Reach out to me on:
+**https://www.linkedin.com/in/soumee-mukherjee-6683721a1/**
