@@ -1,9 +1,9 @@
 # Hi there 👋
 
-* **UG CSE Student
-* **Would love to collaborate on NLP related projects or Kaggle projects
-* **Love programming too
-* **Participated a couple of time's in Harvard's Puzzle Days
+* **UG CSE Student**
+* **Would love to collaborate on NLP related projects or Kaggle projects**
+* **Love programming too**
+* **Participated a couple of time's in Harvard's Puzzle Days**
 
 
 ## Machine Learning:
