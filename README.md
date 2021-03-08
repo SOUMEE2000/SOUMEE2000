@@ -20,6 +20,7 @@
 ### Databases:
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-
+## Github stats:
+[![Soumee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOUMEE2000)](https://github.com/anuraghazra/github-readme-stats)
 # Reach out to me:
 **https://www.linkedin.com/in/soumee-mukherjee-6683721a1/**
