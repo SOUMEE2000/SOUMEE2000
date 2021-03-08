@@ -1,6 +1,7 @@
 # Hi there 👋
 
 * **UG CSE Student**
+* **Eager to learn more on web-dev and machine learning**
 * **Would love to collaborate on NLP related projects/ Kaggle projects/ Coding projects/ Web-development projects**
 * **Participated a couple of time's in Harvard's Puzzle Days**
 
