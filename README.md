@@ -22,5 +22,8 @@
 
 ## Github stats:
 [![Soumee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOUMEE2000&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Top languages used:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOUMEE2000&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 # Reach out to me:
 **https://www.linkedin.com/in/soumee-mukherjee-6683721a1/**
