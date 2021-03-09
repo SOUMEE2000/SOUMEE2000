@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 ## Github stats:
-[![Soumee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOUMEE2000&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Soumee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOUMEE2000&count_private=true&theme=radical&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top languages used:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOUMEE2000&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
