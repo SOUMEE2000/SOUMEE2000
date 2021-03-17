@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello 👋
 
 * **UG CSE Student**
 * **Eager to learn more on web-dev and machine learning**
