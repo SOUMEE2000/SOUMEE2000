@@ -24,10 +24,9 @@
 
 [PostgresSQL]:https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 
-[MySQl_logo]: https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg
+[MySQl_logo]:https://user-images.githubusercontent.com/52605586/124901352-8ff84880-dfff-11eb-9c42-fcc089908f9a.png
 
-[Oracle_logo]: https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/oracle.svg
-
+[Oracle_logo]:https://user-images.githubusercontent.com/52605586/124901526-b7e7ac00-dfff-11eb-8917-566f99b4c37c.png
 
 
 # Hello 👋
