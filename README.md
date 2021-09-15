@@ -33,7 +33,7 @@
 
 * **Pre-Final Year CSE Student**
 * **Eager to learn more on Machine-Learning and Web-dev**
-* **My current domain of Research is Medical Image Processing and I love to learn about anything. Please feel free to hit me up on linkedin**
+* **My current domain of Research is Medical Image Processing and I love to learn about anything (AI-ish). Please feel free to hit me up on linkedin**
 
 
 # Skills involve:
