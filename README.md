@@ -31,10 +31,9 @@
 
 # Hello 👋
 
-* **UG CSE Student**
-* **Eager to learn more on web-dev and machine learning**
-* **Would love to collaborate on NLP related projects/ Kaggle projects/ Coding projects/ Web-development projects**
-* **Participated a couple of time's in Harvard's Puzzle Days**
+* **Pre-Final Year CSE Student**
+* **Eager to learn more on Machine-Learning and Web-dev**
+* **Mycurrent domain of Research is Medical Image Processing and I love to learn about anything. Please feel free to hit me up on linkedin**
 
 
 # Skills involve:
