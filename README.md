@@ -31,7 +31,7 @@
 
 # Hello 👋
 
-* **Pre-Final Year CSE Student**
+* **Final Year CSE Student, MITACS'22 scholar**
 * **Eager to learn more on Machine-Learning and Web-dev**
 * **My current domain of Research is Medical Image Processing and I love to learn about anything (AI-ish). Please feel free to hit me up on linkedin**
 
