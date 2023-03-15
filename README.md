@@ -30,34 +30,28 @@
 
 
 # Hello 👋
-
+<a href="https://www.linkedin.com/in/soumee-mukherjee-6683721a1/"><img align="left" src="https://github.com/SOUMEE2000/SOUMEE2000/blob/main/Images/linkedin.png?raw=true" alt="icon | LinkedIn" width="29px"/></a>
+<a href="https://www.github.com/SOUMEE2000/SOUMEE2000.github.io"><img align="left" src="https://github.com/SOUMEE2000/SOUMEE2000/blob/main/Images/blog.png?raw=true" alt="icon | LinkedIn" width="29px"/></a>   
+<br>
 * **Final Year CSE Student, MITACS'22 scholar**
 * **Eager to learn more on Computer Vision, Large Language Models, Web-dev**
 * **I performed researched on Medical Image Processing.**
-* **Please feel free to hit me up on [linkedin](https://www.linkedin.com/in/soumee-mukherjee-6683721a1/)**
+* **Please feel free to hit me up on my socials**
 
-# Skills involve:
-### Machine Learning:
+# Technical skills:
+![Tensorflow_logo] ![Pandas_logo]   ![Numpy_logo] 
+<br>
+![Python_logo]  ![C_logo]  ![Cpp_logo]  ![R_logo]
+<br>
+ ![Javascript_logo]  ![HTML_5]   ![CSS_logo] 
+![Flask_logo]     ![Markdown_logo] 
+<br>
+![PostgresSQL]  ![MySQL_logo]  ![Oracle_logo] 
 
-| ![Tensorflow_logo] | ![Pandas_logo]  | ![Numpy_logo] |
-| :-----------:      | :-----:         |   :-------: |
 
-###  Languages for Coding:
-
-| ![Python_logo]  |  ![C_logo]   |   ![Cpp_logo] |  ![R_logo]  |
-| :-----: | :-------:| :-----:|  :-----:|
-
-### Web Development:
-
-| ![Javascript_logo] | ![HTML_5] |  ![CSS_logo] 
-| :---: | :---: | :---: |
-|  ![Flask_logo]     |  ![Markdown_logo] |
-### Databases:
-
-| ![PostgresSQL] | ![MySQL_logo] | ![Oracle_logo] |
-| :---:| :---:| :---:|
-
-## Github stats:
+## Some Stats:
 [![Soumee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOUMEE2000&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOUMEE2000&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-# Reach out to me:
+![Leetcode Stats](https://leetcard.jacoblin.cool/soumee2000?theme=dark)
+
+
