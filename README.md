@@ -32,9 +32,9 @@
 # Hello 👋
 
 * **Final Year CSE Student, MITACS'22 scholar**
-* **Eager to learn more on Machine-Learning and Web-dev**
-* **My current domain of Research is Medical Image Processing and I love to learn about anything (AI-ish). Please feel free to hit me up on linkedin**
-
+* **Eager to learn more on Computer Vision, Large Language Models, Web-dev**
+* **I performed researched on Medical Image Processing.**
+* **Please feel free to hit me up on [linkedin](https://www.linkedin.com/in/soumee-mukherjee-6683721a1/)**
 
 # Skills involve:
 ### Machine Learning:
@@ -61,4 +61,3 @@
 [![Soumee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOUMEE2000&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOUMEE2000&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 # Reach out to me:
-**https://www.linkedin.com/in/soumee-mukherjee-6683721a1/**
