@@ -40,7 +40,7 @@
 
 # Technical skills:
 
-<table border="0px"><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%">
 
 ### Machine Learning  
 <div align="center">  
