@@ -47,7 +47,10 @@
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>
+<img style="margin: 10px" src = "https://user-images.githubusercontent.com/52605586/226277769-a9c96d4f-44cb-4b0a-be69-5f92ca11e05f.png" height="50">
+<img style="margin: 10px" src = "https://user-images.githubusercontent.com/52605586/226278770-d9cd59fe-d72f-4fd1-8477-ad4bf369c692.png" height="50">
+
 </div>
 
 </td><td valign="top" width="33%">
