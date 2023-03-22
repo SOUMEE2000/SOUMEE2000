@@ -34,8 +34,7 @@
 <a href="https://www.github.com/SOUMEE2000/SOUMEE2000.github.io"><img align="left" src="https://github.com/SOUMEE2000/SOUMEE2000/blob/main/Images/blog.png?raw=true" alt="icon | LinkedIn" width="29px"/></a>   
 <br>
 * **Final Year CSE Student, MITACS'22 scholar**
-* **Eager to learn more on Computer Vision, Large Language Models, Web-dev**
-* **I performed researched on Medical Image Processing.**
+* **Eager to learn more on Computer Vision, Large Language Models, Web-dev, Agent-Based Models...**
 * **Please feel free to hit me up on my socials**
 
 # Technical skills:
